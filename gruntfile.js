@@ -24,7 +24,7 @@ module.exports = function(grunt) {
     'gh-pages': {
       options: {
         base: 'build',
-        repo: 'https://github.com/grange-company/grange-and-company.git'
+        repo: 'https://github.com/grange-company/grange-company.github.io.git'
       },
       src: ['**']
     }

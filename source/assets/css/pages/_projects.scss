@@ -1,4 +1,4 @@
-.projects {
+.design {
   .container {
     margin-top: 1*$baseline;
     @include respond-to($container-max) {
@@ -28,11 +28,11 @@
       margin: auto;
       background: none;
 
-      img {    
-        @include respond-to(1500px) {          
+      img {
+        @include respond-to(1500px) {
           max-width: $un-measure;
           width: $un-measure;
-          margin-top: 1*$baseline;        
+          margin-top: 1*$baseline;
           margin-left: -43.75%;
         }
       }
@@ -43,7 +43,7 @@
     blockquote {
       @extend %IdealExtraLightItalic;
       @extend %p13-5;
-      margin-bottom: 2*$baseline;      
+      margin-bottom: 2*$baseline;
     }
     p {
       @include respond-to($phone-tall) {
