@@ -10,11 +10,11 @@ layout: project
 
 Printing by the phenomenal [Stumptown Printers](http://www.stumptownprinters.com/)
 
-![2yoke Card Back](2yoke/card-back.jpg)
+![Grange & Company | 2yoke Card Back](2yoke/card-back.jpg)
 > Three color letterpress printed on 110lb Crane Letra Pearl in Portland, Oregon.
 
-![Close Zoom on 2yoke Card](2yoke/card-zoom.jpg)
+![Grange & Company | Close Zoom on 2yoke Card](2yoke/card-zoom.jpg)
 > Type set in Futura Light, light green accent color speaks to vitality and energy.
 
-![2yoke Brand Package](2yoke/final-brand-package.png)
+![Grange & Company | 2yoke Brand Package](2yoke/final-brand-package.png)
 > Final branding package, including colors, logotypes, and typography selections.

@@ -9,14 +9,14 @@ This 170 sf micro-apartment renovation in the heart of the 5ème arrondissement 
 
 ### [Download the Project Proposal](/assets/pdf/project-proposal.pdf)
 
-![4 Rue le Goff](4-rue-le-goff/4rlg-concept.png)
+![Grange & Company | 4 Rue le Goff](4-rue-le-goff/4rlg-concept.png)
 > Watercolor Parti Studies
 
-![4 Rue le Goff](4-rue-le-goff/4rlg-schematic.png)
+![Grange & Company | 4 Rue le Goff](4-rue-le-goff/4rlg-schematic.png)
 > Watercolor Schematic Studies
 
-![4 Rue le Goff](4-rue-le-goff/4rlg-sketch.png)
+![Grange & Company | 4 Rue le Goff](4-rue-le-goff/4rlg-sketch.png)
 > Final Space Concept Sketch
 
-![4 Rue le Goff](4-rue-le-goff/views.png)
+![Grange & Company | 4 Rue le Goff](4-rue-le-goff/views.png)
 > Final Space Renders
