@@ -19,8 +19,8 @@ projects:
 
   - name: 'Mallory Street Renovation'
     description: " A residential design-build project"
-    slug: mallory-street
-    thumbnail: mallory-renovation/command-center-header.png
+    slug: mallory-street-renovation
+    thumbnail: mallory-street-renovation/command-center-header.png
     location: 'Portland'
     typology: 'Environment'
     date:
