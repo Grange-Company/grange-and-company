@@ -6,7 +6,7 @@ layout: project
 
 # Mallory Street Renovation
 
-This all-encompassing kitchen renovation included a complete spatial and structural remodel as well as the re-design of the kitchen and entry-way. The existing kitchen was cramped and dysfunctional; the client wanted an engaging space where greeting guests, cooking and socializing could happen seamlessly. Grange + Company started the process by removing two interior walls, opening up views and social spaces. The interior layout and cabinet design focused on maximizing storage, blending space between the entry and kitchen, and enliving static space around the cooktop. The remodel process was a collaborative one, where the client was involved through all phases of the remodel: demolition to design to installation.
+This all-encompassing kitchen renovation includes a complete spatial and structural remodel as well as the re-design of the kitchen and entry-way. The existing kitchen was cramped and dysfunctional; the client wanted an engaging space where greeting guests, cooking and socializing could happen seamlessly.Grange + Company started the process by removing two interior walls, opening up views and social spaces. The interior layout and cabinet design maximizes storage, blends space between the entry and kitchen, and enlivens static space around the cooktop. The remodel process was a collaborative one, where the client was involved through all phases of the remodel: demolition to design to installation.
 
 The cabinets are solid maple, finished with a cherry stain. At the owner's request, the existing granite was salvaged, re-finished and re-installed. 
 
