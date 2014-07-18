@@ -17,6 +17,26 @@ projects:
   #     month: 'month'
   #     year: 'year'
 
+  - name: 'Mallory Street Renovation'
+    description: " A residential design-build project"
+    slug: mallory-street
+    thumbnail: mallory-renovation/command-center-header.png
+    location: 'Portland'
+    typology: 'Environment'
+    date:
+      month: 'May'
+      year: '2014'
+
+  - name: 'Arc GIS Tech Office'
+    description: " Workplace furniture for a tech company's Research and Development office"
+    slug: esri-office
+    thumbnail: esri-office/reception-entry-banner.png
+    location: 'Portland'
+    typology: 'Furniture'
+    date:
+      month: 'March'
+      year: '2014'
+
   - name: 'Eliot Table'
     description: " Edges, lines, and the joining of differences"
     slug: eliot-table
