@@ -1,23 +1,81 @@
 ---
-title: Tiny Table
-slug: tiny-table
+title: GIS Tech Office
+slug: esri-office
 layout: project
 ---
 
-# Tiny Table
+# GIS Tech Office Furniture
 
-A side table that reflects the movement towards small and reduced living, and speaks to mid-century French and contemporary Scandinavian design concepts. Tiny Table was manufactured using traditional woodworking methods from cast
-off and extra materials from the first Loading Dock prototype. Finding a new life cycle for what are normally considered ‘scraps’ speaks to Grange’s commitment to sustainable practice and responsible design.
+Grange + Company worked with this large global tech company on space planning, furniture design and fabrication for their new Research and Development office in Portland, Oregon. The space planning and furniture design phases were two-fold and developed at the same time, creating unique and site-specific furniture for the company. Grange designed standing desks, bookshelves and a reception desk to bring Portland and Oregon's natural and cultural history into an otherwise corporate-style environment. All three furniture typologies strive to challenge traditional conventions of corporate workplace furniture.
 
-![Tiny Table](tiny-table/table-top-close.png)
-> Old growth Oregon fir.
 
-![Tiny Table](tiny-table/table-wheels-2.png)
-> Flush surface edge.
+![esri-office](esri-office/worf.png)
+> Artwork at conference room. This research and development office is creatively-charged - Grange's furniture aims to provide a functional and expressive backdrop for the wealth of information and ideas that are produced. 
 
-<!-- ![Tiny Table](tiny-table/table-wheels.png) -->
-<!-- ![Tiny Table](tiny-table/top-down.png) -->
-![Tiny Table](tiny-table/table-side.png)
-> Elegant proportions.
+![esri-office](esri-office/reception-entry.png)
+> The sharp contrast, intersecting lines and planes of this piece reflect the geometries and planes found in cartography design, the basis of this tech company's work. White maple.
 
-<!-- ![Tiny Table](tiny-table/table-tall.png) -->
+![esri-office](esri-office/reception-phonecall.png)
+> 
+
+![esri-office](esri-office/reception-slot-detail.png)
+> Intersection /  Relief
+
+
+![esri-office](esri-office/reception-counter-detail.png)
+> 
+
+![esri-office](esri-office/standing-desk-row.png)
+> Two-person, manually-adjustable standing desks. Each desk fits two people "tête à tête"
+
+
+![esri-office](esri-office/standing-desk-detail.png)
+> The client wanted different height desks, with the ability to occasionally adjust the height - Grange implemented a manual peg system that was simple and cost-effective.
+
+
+![esri-office](esri-office/standing-desk-cat.png)
+> Simple backdrop 
+
+
+![esri-office](esri-office/standing-desk-notch-detail.png)
+> Notch detail
+
+
+![esri-office](esri-office/short-shelf-full.png)
+> The bookshelves are designed to act as major interior partitions, without obstructing light or views.
+
+
+![esri-office](esri-office/short-shelf-full2.png)
+> 
+
+
+![esri-office](esri-office/short-shelf-edge-detail.png)
+> Inset shelf detail
+
+
+![esri-office](esri-office/short-concentric-dinosaur.png)
+> View through open shelving
+
+
+![esri-office](esri-office/tall-shelf-long.png)
+> Intersection /  Relief
+
+
+![esri-office](esri-office/tall-shelf-full.png)
+> Full height shelf with inset glass panels provides screening between programmer and sales teams.
+
+
+![esri-office](esri-office/tall-shelf-map-detail.png)
+> Bookshelves are part objet d'art and part utilitarian surface
+
+
+![esri-office](esri-office/tall-shelf-bottom-detail.png)
+> Joinery
+
+
+![esri-office](esri-office/tall-shelf-cross-detail.png)
+> Joinery
+
+
+![esri-office](esri-office/tall-shelf-lego.png)
+> 
