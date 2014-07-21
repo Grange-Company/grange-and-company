@@ -16,16 +16,16 @@ How can design, beauty and function be balanced in the entryways of domestic lif
 > The Loading Dock from three angles.
 
 ![Grange & Company | Loading Dock - Three Views](loading-dock/shelf-full.png)
-> Mortis and tenant joints
+> Mortis and tenon joints
 
 ![Grange & Company | Loading Dock - Three Views](loading-dock/top-detail-full.png)
 > [Schoolhouse Electric](http://www.schoolhouseelectric.com/) Simon Hooks
 
 ![Grange & Company | Loading Dock - Three Views](loading-dock/shelf-close-up-full.png)
-> Prairie cloth and accent thread
+> Prairie cloth with orange accent thread
 
 ![Grange & Company | Loading Dock - Three Views](loading-dock/computer-full.png)
-> Macbook Pro 13 inch
+> Scale and proportion
 
 ![Grange & Company | Loading Dock - Three Views](loading-dock/orchid-shot-full.png)
 
