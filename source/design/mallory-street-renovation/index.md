@@ -6,7 +6,7 @@ layout: project
 
 # Mallory Street Renovation
 
-This all-encompassing kitchen renovation includes a complete spatial and structural remodel as well as the re-design of the kitchen and entry-way. The existing kitchen was cramped and dysfunctional; the client wanted an engaging space where greeting guests, cooking and socializing could happen seamlessly.Grange + Company started the process by removing two interior walls, opening up views and social spaces. The interior layout and cabinet design maximizes storage, blends space between the entry and kitchen, and enlivens static space around the cooktop. The remodel process was a collaborative one, where the client was involved through all phases of the remodel: demolition to design to installation.
+This all-encompassing kitchen renovation includes a complete spatial and structural remodel as well as the re-design of the kitchen and entry-way. The client wanted an engaging space where greeting guests, cooking and socializing could happen seamlessly. Grange + Company began the process by removing two interior walls, opening up views and social spaces. The interior layout and cabinet design maximizes storage, blends space between the entry and kitchen, and enlivens static space around the cooktop. The remodel process was a collaborative one, where the client was involved through all phases of the remodel: demolition to design to installation.
 
 The cabinets are solid maple, finished with a cherry stain. At the owner's request, the existing granite was salvaged, re-finished and re-installed.
 
@@ -17,13 +17,10 @@ The cabinets are solid maple, finished with a cherry stain. At the owner's reque
 > View - before renovation
 
 ![Mallory Renovation](mallory-street-renovation/view-through-kitchen.jpg)
-> View looking through kitchen
-
-![Mallory Renovation](mallory-street-renovation/before-view-through-door.jpg)
-> View looking through kitchen
+> View after, looking through kitchen
 
 ![Mallory Renovation](mallory-street-renovation/overall.jpg)
-> Overall kitchen view- demolition of interior walls and new interior layout expanded and connected the kitchen to living area, surrounding natural light, creating the client's desired result of a more "social and engaged" space.
+> Overall kitchen view- demolition of interior walls and new interior layout connected the kitchen to living area and natural light, creating the client's desired result of a more "social and engaged" space.
 
 ![Mallory Renovation](mallory-street-renovation/entry-pass-by.jpg)
 > View of new casework at entry, providing a designated entry zone for the house.
@@ -32,13 +29,10 @@ The cabinets are solid maple, finished with a cherry stain. At the owner's reque
 > Open shelving at sink, with custom bracket detail.
 
 ![Mallory Renovation](mallory-street-renovation/cabinets.jpg)
-> New casework design featured Shaker style cabinets and frameless, oversized drawers.
+> New casework featured Shaker style cabinets and frameless, oversized drawers.
 
 ![Mallory Renovation](mallory-street-renovation/wine-detail.jpg)
-> Wine storage detail, at full-height cabinets near fridge.
-
-![Mallory Renovation](mallory-street-renovation/shelves.jpg)
-> Open shelving at sink, with custom brackets.
+> Wine storage detail above full-height cabinets near fridge.
 
 ![Mallory Renovation](mallory-street-renovation/roulette.jpg)
 > Moveable kitchen island with storage access on both sides.
