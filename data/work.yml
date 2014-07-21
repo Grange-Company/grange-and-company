@@ -20,7 +20,7 @@ projects:
   - name: 'Mallory Street Renovation'
     description: " A residential design-build project"
     slug: mallory-street-renovation
-    thumbnail: mallory-street-renovation/command-center-header.png
+    thumbnail: mallory-street-renovation/command-center-header.jpg
     location: 'Portland'
     typology: 'Environment'
     date:
@@ -30,7 +30,7 @@ projects:
   - name: 'Arc GIS Tech Office'
     description: " Workplace furniture for a tech company's Research and Development office"
     slug: esri-office
-    thumbnail: esri-office/reception-entry-banner.png
+    thumbnail: esri-office/reception-entry-banner.jpg
     location: 'Portland'
     typology: 'Furniture'
     date:
