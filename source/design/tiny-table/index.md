@@ -7,7 +7,7 @@ layout: project
 # Tiny Table
 
 A side table that reflects the movement towards small and reduced living, and speaks to mid-century French and contemporary Scandinavian design concepts. Tiny Table was manufactured using traditional woodworking methods from cast
-off and extra materials from the first Loading Dock prototype. Finding a new life cycle for what are normally considered ‘scraps’ speaks to Grange’s commitment to sustainable practice and responsible design.
+off and extra materials from the first Loading Dock prototype.
 
 ![Grange & Company | Tiny Table](tiny-table/table-top-close.png)
 > Old growth Oregon fir.

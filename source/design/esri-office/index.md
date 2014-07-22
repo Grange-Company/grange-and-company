@@ -10,10 +10,10 @@ Grange + Company worked with this large global tech company on space planning, f
 
 
 ![esri-office](esri-office/worf.jpg)
-> Artwork at conference room. This research and development office is creatively-charged - Grange's furniture aims to provide a functional and expressive backdrop for the wealth of information and ideas that are produced.
+> This research and development office is creatively-charged - Grange's furniture aims to provide a functional and expressive backdrop for the wealth of information and ideas that are produced.
 
 ![esri-office](esri-office/reception-entry.jpg)
-> The sharp contrast, intersecting lines and planes of this piece reflect the geometries and planes found in cartography design, the basis of this tech company's work. White maple.
+> The sharp contrast, intersecting lines and planes of this piece reflect the similar qualities of cartography design, the basis of this tech company's work. White maple.
 
 ![esri-office](esri-office/reception-phonecall.jpg)
 >
@@ -30,7 +30,7 @@ Grange + Company worked with this large global tech company on space planning, f
 
 
 ![esri-office](esri-office/standing-desk-detail.jpg)
-> The client wanted different height desks, with the ability to occasionally adjust the height - Grange implemented a manual peg system that was simple and cost-effective.
+> The client standing desks that could be ocassionally adjusted in height  - Grange implemented a manual peg system that was simple and cost-effective.
 
 
 ![esri-office](esri-office/standing-desk-cat.jpg)
@@ -45,10 +45,6 @@ Grange + Company worked with this large global tech company on space planning, f
 > The bookshelves are designed to act as major interior partitions, without obstructing light or views.
 
 
-![esri-office](esri-office/short-shelf-full2.jpg)
->
-
-
 ![esri-office](esri-office/short-shelf-edge-detail.jpg)
 > Inset shelf detail
 
@@ -58,11 +54,11 @@ Grange + Company worked with this large global tech company on space planning, f
 
 
 ![esri-office](esri-office/tall-shelf-long.jpg)
-> Intersection /  Relief
+> 
 
 
 ![esri-office](esri-office/tall-shelf-full.jpg)
-> Full height shelf with inset glass panels provides screening between programmer and sales teams.
+> Full height shelf with inset glass panels provides screening between programming and sales teams.
 
 
 ![esri-office](esri-office/tall-shelf-map-detail.jpg)
